@@ -1,2 +1,3 @@
-# fiapx-bucket-state-file
-Bucket para terraform state files
+# Bucket S3
+
+Bucket usado para armazenar remotamente o estado do Terraform, garantindo controle de versão e consistência.
