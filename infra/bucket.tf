@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "bucket" {
-  bucket = "fiapx-bucket-statefile"
+  bucket = var.bucket_statefile_name
 }
 
 resource "aws_s3_bucket_versioning" "versioning" {
