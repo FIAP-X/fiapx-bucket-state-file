@@ -1,1 +1,1 @@
-bucket_statefile_name = "fiapx-bucket-statefile"
+bucket_statefile_name = "fiapx-statefile-bucket"
